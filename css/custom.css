@@ -48,7 +48,7 @@ h2.sub-text {
     position: relative;
     top: 5px;
     bottom: 37px;
-    background: rgb(39, 64, 55);
+    background: black;
     color: white;
     font-size: 30px;
     font-family: "Lato";
@@ -95,7 +95,7 @@ header
 .logo h1 {
     font-weight: 400;
     font-family: 'Marck Script', cursive;
-    color: #E7F0FF;
+    color: #FFFFFF;
     font-size: 73px;
 }
 .circle {
@@ -107,8 +107,8 @@ header
     -moz-border-radius: 100%;
     border-radius: 100%;
     border: 5px white dotted;
-    color: white;
-    background-color: rgb(23, 67, 72);
+    color: #FFFFFF;
+    background-color: black;
     opacity: 0.6;
 }
 #spacer1 
@@ -195,7 +195,7 @@ Our service
     background-size: cover;
 }
 .service, .share, .subscribe {
-    background-color: rgba(79, 151, 138, 1);
+    background-color: #FF2F67;
 }
 .service-text h3, .share-text h3, .subscribe-text h3 {
     padding: 30px 0 0 20px;
@@ -252,7 +252,7 @@ share
  ---------------------------------------------------------------------------------------------------*/
 .share-icons {
     padding: 50px;
-    background: rgba(79, 151, 138, 0.93);
+    background: #080808;
 }
 .socials-icons {
     margin: 0 auto;
@@ -297,57 +297,57 @@ share
 }
 .facebook
 {
-    background-color: #3acab1;
+    background-color: #FF2F67;
 }
 .facebook:hover
 {
-    background-color: #46629E;
+    background-color: #030303;
 }
 .twitter
 {
-    background-color: #3acab1;
+    background-color: #FF2F67;
 }
 .twitter:hover
 {
-    background-color: #0EAACE;
+    background-color: #030303;
 }
 .google-plus
 {
-    background-color: #3acab1;
+    background-color: #FF2F67;
 }
 .google-plus:hover
 {
-    background-color: #DD4C39;
+    background-color: #030303;
 }
 .instagram
 {
-    background-color: #3acab1;
+    background-color: #FF2F67;
 }
 .instagram:hover
 {
-    background-color: #4A789E;
+    background-color: #030303;
 }
 .pinterest
 {
-    background-color: #3acab1;
+    background-color: #FF2F67;
 }
 .pinterest:hover
 {
-    background-color: #CB2027;
+    background-color: #030303;
 }
 .skype
 {
-    background-color: #3acab1;
+    background-color: #FF2F67;
 }
 .skype:hover
 {
-    background-color: #01AEF2;
+    background-color: #030303;
 }
 /*----------------------------------------------------------------------------------------------------
 FOOTER
 -----------------------------------------------------------------------------------------------------*/
 .footer {
-    background: rgba(54, 75, 63, 0.97);
+    background: #080808;
     color: rgba(255,255,255,0.8);
     padding-top: 30px;
     padding-bottom: 30px;
